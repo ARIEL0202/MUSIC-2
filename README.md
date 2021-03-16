@@ -469,7 +469,6 @@ http://ipflix.click:8080/Ester/s9mdb4ez9y/12503
 http://ipflix.click:8080/Ester/s9mdb4ez9y/12505
 #EXTINF:-1,iConcerts HD PT
 http://ipflix.click:8080/Ester/s9mdb4ez9y/12502
-
 #EXTINF:-1,MTV NL
 http://ipflix.click:8080/Ester/s9mdb4ez9y/5103
 #EXTINF:-1,MTV Music 24 NL
@@ -490,7 +489,7 @@ http://ipflix.click:8080/Ester/s9mdb4ez9y/11395
 http://ipflix.click:8080/Ester/s9mdb4ez9y/11418
 #EXTINF:-1,IConcerts NL
 http://ipflix.click:8080/Ester/s9mdb4ez9y/11420
-#EXTINF:-1,DJazz TV NL
+#EXTINF:-1,DJazz TV NL   
 http://ipflix.click:8080/Ester/s9mdb4ez9y/11423
 
 
