@@ -10,6 +10,9 @@ http://ipflix.click:8080/Ester/s9mdb4ez9y/15638
 #EXTINF:-1,Music 1 HD IR
 http://ipflix.click:8080/Ester/s9mdb4ez9y/686800
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Box_hits.svg/1280px-Box_hits.svg.png" group-title="REINO UNIDO",REINO UNIDO: Box Hits
+http://tvpremiumhd.club/lista-gratuita/183402/on/live.php?id=csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
+
 #EXTINF:-1,Persiana Turk Music HD IR
 http://ipflix.click:8080/Ester/s9mdb4ez9y/672809
 
