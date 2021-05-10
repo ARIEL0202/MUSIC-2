@@ -1,3 +1,10 @@
+#EXTINF:-1 tvg-id="141007" tvg-name="MTV" tvg-logo="MTV" group-title="Música", MTV
+http://138.117.71.80:25461/test/test/242?PlaylistM3UCL
+#EXTINF:-1 tvg-id="141006" tvg-name="HTV" tvg-logo="HTV" group-title="10 - Musica", HTV
+http://138.117.71.80:25461/test/test/241?PlaylistM3UCL
+#EXTINF:-1 tvg-id="140533" tvg-name="MUCH MUSIC" tvg-logo=" MUCH MUSIC" group-title="10 - Musica", MUCH MUSIC
+http://138.117.71.80:25461/test/test/240?PlaylistM3UCL
+
 #EXTINF:-1,MTV 80s DE
 http://ipflix.click:8080/Ester/s9mdb4ez9y/638080
 
