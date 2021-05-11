@@ -8,6 +8,12 @@ http://138.117.71.80:25461/test/test/240?PlaylistM3UCL
 http://204.12.211.210:1935/conectatv/conectatv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="140335" tvg-name="Alegria TV" tvg-logo="https://lh3.googleusercontent.com/-IDCwMaJRdnM/Xb11MVTbE-I/AAAAAAAAr4s/PbNF6ie1AIothtCRKeVvdVC6S5hO6a3xACK8BGAsYHg/s0/2019-11-02.png" group-title="Musica", Alegria TV
 https://593b04c4c5670.streamlock.net:443/8192/8192/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="140325" tvg-name="MusicTop" tvg-logo="http://www.diario26.com/images/musictop_logo.png" group-title="Musica", MusicTop
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="140319" tvg-name="ECUA STEREO" tvg-logo="https://lh3.googleusercontent.com/e5U_Sx-Wxt2Ltg61g146DLWmkQC0tGvw0kJxsZ-h4Nj-lWxrGVthqZ9sXCFdm_JhYwgF" group-title="ECUADOR", ECUA STEREO
+https://video.misistemareseller.com/ecuastereotv/ecuastereotv/chunklist_w1213260692.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="140317" tvg-name="Rewind TV" tvg-logo="https://lh3.googleusercontent.com/-wiEb_-wx-tE/YDqWLmE7t9I/AAAAAAABAaE/emzHAZmwQuIQNguj7qQyKcPXZ6c2WR6rgCK8BGAsYHg/s512/2021-02-27.png" group-title="Musica", Rewind TV
+https://tls.cdnz.cl:443/rewindtv/rewindtv/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1,MTV 80s DE
 http://ipflix.click:8080/Ester/s9mdb4ez9y/638080
