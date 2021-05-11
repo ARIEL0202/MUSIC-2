@@ -14,6 +14,10 @@ http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8?Playl
 https://video.misistemareseller.com/ecuastereotv/ecuastereotv/chunklist_w1213260692.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="140317" tvg-name="Rewind TV" tvg-logo="https://lh3.googleusercontent.com/-wiEb_-wx-tE/YDqWLmE7t9I/AAAAAAABAaE/emzHAZmwQuIQNguj7qQyKcPXZ6c2WR6rgCK8BGAsYHg/s512/2021-02-27.png" group-title="Musica", Rewind TV
 https://tls.cdnz.cl:443/rewindtv/rewindtv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="141064" tvg-name="XTV Music" tvg-logo="https://lh3.googleusercontent.com/-AQn8CYeOAK8/X38KO1HXohI/AAAAAAAA6P8/aEkNrz3M0qwWAeklOdf2svEf0HV7bBjyACK8BGAsYHg/s0/2020-10-08.png" group-title="Musica", XTV Music
+https://tls.cdnz.cl:443/xtvmusic/xtvmusic/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="141063" tvg-name="El Galpon 80" tvg-logo="https://lh3.googleusercontent.com/-ZhVxctNbhbM/YH2g1ESaUAI/AAAAAAABBtY/CJuILsc-u_kfRfDmtrMOuzVIwH9oT_WSwCK8BGAsYHg/s512/2021-04-19.png" group-title="Regionales", El Galpon 80
+https://streamyes.alsolnet.com/wtmradio/live/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1,MTV 80s DE
 http://ipflix.click:8080/Ester/s9mdb4ez9y/638080
