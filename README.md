@@ -18,6 +18,8 @@ https://tls.cdnz.cl:443/rewindtv/rewindtv/playlist.m3u8?PlaylistM3UCL
 https://tls.cdnz.cl:443/xtvmusic/xtvmusic/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="141063" tvg-name="El Galpon 80" tvg-logo="https://lh3.googleusercontent.com/-ZhVxctNbhbM/YH2g1ESaUAI/AAAAAAABBtY/CJuILsc-u_kfRfDmtrMOuzVIwH9oT_WSwCK8BGAsYHg/s512/2021-04-19.png" group-title="Regionales", El Galpon 80
 https://streamyes.alsolnet.com/wtmradio/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="139642" tvg-name="V2BEAT" tvg-logo="https://i1.sndcdn.com/avatars-uqybZeqknWnyRv13-tdcZKw-t500x500.jpg" group-title="00 - Argentina", V2BEAT
+https://abr.de1se01.v2beat.live/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1,MTV 80s DE
 http://ipflix.click:8080/Ester/s9mdb4ez9y/638080
