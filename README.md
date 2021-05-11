@@ -20,6 +20,10 @@ https://tls.cdnz.cl:443/xtvmusic/xtvmusic/playlist.m3u8?PlaylistM3UCL
 https://streamyes.alsolnet.com/wtmradio/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="139642" tvg-name="V2BEAT" tvg-logo="https://i1.sndcdn.com/avatars-uqybZeqknWnyRv13-tdcZKw-t500x500.jpg" group-title="00 - Argentina", V2BEAT
 https://abr.de1se01.v2beat.live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="138373" tvg-name="Power" tvg-logo="https://lh3.googleusercontent.com/-OK87fh0FDss/X1TJ_IQLsnI/AAAAAAAA5Tw/Kqs7XCSrP1caCJnMnM3nrIPhHV02XZMzQCK8BGAsYHg/s0/2020-09-06.png" group-title="Argentina", Power
+https://live2.tensila.com/1-1-1.power-tv/hls/master.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="138219" tvg-name="MELODY CHANNEL" tvg-logo="https://i2.wp.com/melodychannel.tv/wp-content/uploads/2021/01/cropped-logoMelody-2.png?resize=150%2C150&ssl=1" group-title="00 - Argentina", MELODY CHANNEL
+https://5b464b69d264e.streamlock.net/Channels_live/ngrp:MelodyChannel_all/chunklist_b1398304.m3u8?PlaylistM3UCL
 
 #EXTINF:-1,MTV 80s DE
 http://ipflix.click:8080/Ester/s9mdb4ez9y/638080
