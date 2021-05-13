@@ -24,6 +24,10 @@ https://abr.de1se01.v2beat.live/playlist.m3u8?PlaylistM3UCL
 https://live2.tensila.com/1-1-1.power-tv/hls/master.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="138219" tvg-name="MELODY CHANNEL" tvg-logo="https://i2.wp.com/melodychannel.tv/wp-content/uploads/2021/01/cropped-logoMelody-2.png?resize=150%2C150&ssl=1" group-title="00 - Argentina", MELODY CHANNEL
 https://5b464b69d264e.streamlock.net/Channels_live/ngrp:MelodyChannel_all/chunklist_b1398304.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="138219" tvg-name="MELODY CHANNEL" tvg-logo="https://i2.wp.com/melodychannel.tv/wp-content/uploads/2021/01/cropped-logoMelody-2.png?resize=150%2C150&ssl=1" group-title="00 - Argentina", MELODY CHANNEL
+https://5b464b69d264e.streamlock.net/Channels_live/ngrp:MelodyChannel_all/chunklist_b1398304.m3u8?PlaylistM3UCL
+
+
 
 #EXTINF:-1,MTV 80s DE
 http://ipflix.click:8080/Ester/s9mdb4ez9y/638080
