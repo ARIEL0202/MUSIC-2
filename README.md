@@ -469,3 +469,17 @@ http://ipflix.click:8080/Ester/s9mdb4ez9y/11434
 
 #EXTINF:-1,Posavina TV BIH
 http://ipflix.click:8080/Ester/s9mdb4ez9y/4992
+
+
+#EXTINF:-20 tvg-logo="https://pbs.twimg.com/profile_images/886371101856628736/hWuK0igF.jpg" group-title="NACIONALES", KOA TV
+https://panel.dattalive.com/8028/8028/playlist.m3u8
+#EXTINF:-23 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY74DCbCMHEUoUgy08KZdB-680qTwMt8QVQLqgUicYDOwqZtd4vo3gp5eo3hLd0ZXJqYU&usqp=CAU" group-title="NACIONALES", ESTACIÓN CRISTAL TV
+https://59ce1298bfb98.streamlock.net/cristaltv/cristaltv/playlist.m3u8
+#EXTINF:-26 tvg-logo="https://i.postimg.cc/g0HSp9SS/frutillar_fm.png" group-title="NACIONALES", FRUTILLAR FM
+https://59ce1298bfb98.streamlock.net/frutillarfm/frutillarfm/playlist.m3u8
+#EXTINF:-26 tvg-logo="https://lh3.googleusercontent.com/proxy/hfavRJ5LMNd_rERiLXzwVwgAKWE0wk-6ld5K5TblGaIvChiAHE5RMox6P5u0nbfRUFUlAUB6qMaayaQs_vXBkKmqbqzT6tM3kfaKRw" group-title="NACIONALES", FARRA PLAY
+http://159.203.148.226/live/farra_low.m3u8
+#EXTINF:-26 tvg-logo="https://play-lh.googleusercontent.com/DAgKwTGXnOAkopAV11A5FXIYipr7xqXpGZEQxvZgJb-qc8P1EkBrD6thXgsL5IbzspI" group-title="NACIONALES", TAPUA TV
+https://59ce1298bfb98.streamlock.net/marianotv/marianotv/playlist.m3u8
+
+
