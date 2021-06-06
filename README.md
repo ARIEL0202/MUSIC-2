@@ -470,6 +470,24 @@ http://ipflix.click:8080/Ester/s9mdb4ez9y/11434
 #EXTINF:-1,Posavina TV BIH
 http://ipflix.click:8080/Ester/s9mdb4ez9y/4992
 
+#EXTINF:-124 tvg-logo="https://i.postimg.cc/66mT62HV/tvsur14.png" group-title="COSTA RICA", TV SUR CANAL 14
+https://5bf8041cb3fed.streamlock.net/TVSURCANAL14/TVSURCANAL14/playlist.m3u8
+
+#EXTINF:-124 tvg-logo="https://i.postimg.cc/tgv71sqH/telemas.png" group-title="COSTA RICA", TELE MÁS
+https://cp.sradiotv.com:1936/8064/8064/chunklist_w989385140.m3u8
+
+#EXTINF:-131 tvg-logo="https://i.postimg.cc/brKGThTr/telenord.png" group-title="REPÚBLICA DOMINICANA", TELENORD 8
+http://newyorkstream.ddns.net:5854/telenord8/telenord8/chunklist.m3u8
+
+#EXTINF:-132 tvg-logo="https://i.postimg.cc/brKGThTr/telenord.png" group-title="REPÚBLICA DOMINICANA", TELENORD 10
+http://newyorkstream.ddns.net:5854/telenord10/telenord10/chunklist.m3u8
+
+#EXTINF:-130 tvg-logo="https://i.postimg.cc/5tCFXjqG/canal56.jpg" group-title="REPÚBLICA DOMINICANA", TV RECUERDOS CANAL 56
+https://cloudflare.streamgato.us:3549/live/canal56live.m3u8
+
+#EXTINF:-133 tvg-logo="https://i.postimg.cc/qqjhYKBz/canalonce.jpg" group-title="OTROS PAÍSES", CANAL 11 ZULIA (Venezuela)
+https://tinyurl.com/y6nj4aas
+
 
 #EXTINF:-20 tvg-logo="https://pbs.twimg.com/profile_images/886371101856628736/hWuK0igF.jpg" group-title="NACIONALES", KOA TV
 https://panel.dattalive.com/8028/8028/playlist.m3u8
