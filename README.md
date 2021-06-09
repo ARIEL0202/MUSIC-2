@@ -1,4 +1,4 @@
-#EXTINF:-1,MTV CLIPES 1 www.achoAPPS.com
+#EXTINF:-1,MTV CLIPES 1
 http://rtmp.one.by:1200
 #EXTINF:-1 tvg-id="140336" tvg-name="Conecta TV" tvg-logo="https://lh3.googleusercontent.com/-1OS8OxMcn0I/XzmCbfsP71I/AAAAAAAA4hQ/FAENkONIqpU9vS0mReGgunUTSJ-he5hPQCK8BGAsYHg/s0/2020-08-16.png" group-title="Musica", Conecta TV
 http://204.12.211.210:1935/conectatv/conectatv/playlist.m3u8?PlaylistM3UCL
@@ -17,12 +17,6 @@ https://abr.de1se01.v2beat.live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="138219" tvg-name="MELODY CHANNEL" tvg-logo="https://i2.wp.com/melodychannel.tv/wp-content/uploads/2021/01/cropped-logoMelody-2.png?resize=150%2C150&ssl=1" group-title="00 - Argentina", MELODY CHANNEL
 https://5b464b69d264e.streamlock.net/Channels_live/ngrp:MelodyChannel_all/chunklist_b1398304.m3u8?PlaylistM3UCL
 
-#EXTINF:-1,MTV 80s DE
-http://ipflix.click:8080/Ester/s9mdb4ez9y/638080
-
-#EXTINF:-1,RTL 102.5 TV FHD IT
-http://ipflix.click:8080/Ester/s9mdb4ez9y/686303
-
 #EXTINF:-1,MAD TV VIP GR
 http://ipflix.click:8080/Ester/s9mdb4ez9y/685804
 
@@ -35,59 +29,6 @@ http://ipflix.click:8080/Ester/s9mdb4ez9y/685797
 
 
 
-
-
-
-#EXTINF:-1,BP TV HD BiH
-http://ipflix.click:8080/Ester/s9mdb4ez9y/657469
-
-#EXTINF:-1,BN Music BIH
-http://ipflix.click:8080/Ester/s9mdb4ez9y/9394
-
-#EXTINF:-1,Hayat Folk BIH
-http://ipflix.click:8080/Ester/s9mdb4ez9y/5042
-
-#EXTINF:-1,Hayat Music BIH
-http://ipflix.click:8080/Ester/s9mdb4ez9y/9401
-
-#EXTINF:-1,Sevdah TV BIH
-http://ipflix.click:8080/Ester/s9mdb4ez9y/9399
-
-#EXTINF:-1,OTV Valentino BIH
-http://ipflix.click:8080/Ester/s9mdb4ez9y/5023
-
-#EXTINF:-1,Planeta TV BIH
-http://ipflix.click:8080/Ester/s9mdb4ez9y/635094
-
-#EXTINF:-1,Musique Plus [FR] CA
-http://ipflix.click:8080/Ester/s9mdb4ez9y/53732
-
-#EXTINF:-1,Muzsika TV HU
-http://ipflix.click:8080/Ester/s9mdb4ez9y/684032
-
-#EXTINF:-1,Folk Klub HD MK
-http://ipflix.click:8080/Ester/s9mdb4ez9y/657507
-
-#EXTINF:-1,Folk HD MK
-http://ipflix.click:8080/Ester/s9mdb4ez9y/657511
-
-#EXTINF:-1,Balkan Music HD MK
-http://ipflix.click:8080/Ester/s9mdb4ez9y/657508
-
-#EXTINF:-1,Makedonska TV MK
-http://ipflix.click:8080/Ester/s9mdb4ez9y/657510
-
-#EXTINF:-1,Kafanska MK
-http://ipflix.click:8080/Ester/s9mdb4ez9y/657509
-
-#EXTINF:-1,Hugo TV 2 HD MK
-http://ipflix.click:8080/Ester/s9mdb4ez9y/13387
-
-#EXTINF:-1,Hugo TV 3 HD MK
-http://ipflix.click:8080/Ester/s9mdb4ez9y/685983
-
-#EXTINF:-1,INTV Avstralija HD MK
-http://ipflix.click:8080/Ester/s9mdb4ez9y/674106
 
 #EXTINF:-1,MTVU HD VIP US
 http://ipflix.click:8080/Ester/s9mdb4ez9y/684706
@@ -373,7 +314,6 @@ https://cloudflare.streamgato.us:3549/live/canal56live.m3u8
 
 #EXTINF:-133 tvg-logo="https://i.postimg.cc/qqjhYKBz/canalonce.jpg" group-title="OTROS PAÍSES", CANAL 11 ZULIA (Venezuela)
 https://tinyurl.com/y6nj4aas
-
 
 #EXTINF:-20 tvg-logo="https://pbs.twimg.com/profile_images/886371101856628736/hWuK0igF.jpg" group-title="NACIONALES", KOA TV
 https://panel.dattalive.com/8028/8028/playlist.m3u8
