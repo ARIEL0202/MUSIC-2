@@ -1,15 +1,7 @@
 #EXTINF:-1,MTV CLIPES 1 www.achoAPPS.com
 http://rtmp.one.by:1200
-#EXTINF:-1 tvg-id="141007" tvg-name="MTV" tvg-logo="MTV" group-title="Música", MTV
-http://138.117.71.80:25461/test/test/242?PlaylistM3UCL
-#EXTINF:-1 tvg-id="141006" tvg-name="HTV" tvg-logo="HTV" group-title="10 - Musica", HTV
-http://138.117.71.80:25461/test/test/241?PlaylistM3UCL
-#EXTINF:-1 tvg-id="140533" tvg-name="MUCH MUSIC" tvg-logo=" MUCH MUSIC" group-title="10 - Musica", MUCH MUSIC
-http://138.117.71.80:25461/test/test/240?PlaylistM3UCL
 #EXTINF:-1 tvg-id="140336" tvg-name="Conecta TV" tvg-logo="https://lh3.googleusercontent.com/-1OS8OxMcn0I/XzmCbfsP71I/AAAAAAAA4hQ/FAENkONIqpU9vS0mReGgunUTSJ-he5hPQCK8BGAsYHg/s0/2020-08-16.png" group-title="Musica", Conecta TV
 http://204.12.211.210:1935/conectatv/conectatv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="140335" tvg-name="Alegria TV" tvg-logo="https://lh3.googleusercontent.com/-IDCwMaJRdnM/Xb11MVTbE-I/AAAAAAAAr4s/PbNF6ie1AIothtCRKeVvdVC6S5hO6a3xACK8BGAsYHg/s0/2019-11-02.png" group-title="Musica", Alegria TV
-https://593b04c4c5670.streamlock.net:443/8192/8192/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="140325" tvg-name="MusicTop" tvg-logo="http://www.diario26.com/images/musictop_logo.png" group-title="Musica", MusicTop
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="140319" tvg-name="ECUA STEREO" tvg-logo="https://lh3.googleusercontent.com/e5U_Sx-Wxt2Ltg61g146DLWmkQC0tGvw0kJxsZ-h4Nj-lWxrGVthqZ9sXCFdm_JhYwgF" group-title="ECUADOR", ECUA STEREO
@@ -22,81 +14,14 @@ https://tls.cdnz.cl:443/xtvmusic/xtvmusic/playlist.m3u8?PlaylistM3UCL
 https://streamyes.alsolnet.com/wtmradio/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="139642" tvg-name="V2BEAT" tvg-logo="https://i1.sndcdn.com/avatars-uqybZeqknWnyRv13-tdcZKw-t500x500.jpg" group-title="00 - Argentina", V2BEAT
 https://abr.de1se01.v2beat.live/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="138373" tvg-name="Power" tvg-logo="https://lh3.googleusercontent.com/-OK87fh0FDss/X1TJ_IQLsnI/AAAAAAAA5Tw/Kqs7XCSrP1caCJnMnM3nrIPhHV02XZMzQCK8BGAsYHg/s0/2020-09-06.png" group-title="Argentina", Power
-https://live2.tensila.com/1-1-1.power-tv/hls/master.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="138219" tvg-name="MELODY CHANNEL" tvg-logo="https://i2.wp.com/melodychannel.tv/wp-content/uploads/2021/01/cropped-logoMelody-2.png?resize=150%2C150&ssl=1" group-title="00 - Argentina", MELODY CHANNEL
-https://5b464b69d264e.streamlock.net/Channels_live/ngrp:MelodyChannel_all/chunklist_b1398304.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="138219" tvg-name="MELODY CHANNEL" tvg-logo="https://i2.wp.com/melodychannel.tv/wp-content/uploads/2021/01/cropped-logoMelody-2.png?resize=150%2C150&ssl=1" group-title="00 - Argentina", MELODY CHANNEL
 https://5b464b69d264e.streamlock.net/Channels_live/ngrp:MelodyChannel_all/chunklist_b1398304.m3u8?PlaylistM3UCL
 
 #EXTINF:-1,MTV 80s DE
 http://ipflix.click:8080/Ester/s9mdb4ez9y/638080
 
-#EXTINF:-1,Magic UK
-http://ipflix.click:8080/Ester/s9mdb4ez9y/15824
-
-#EXTINF:-1,Telehit
-http://ipflix.click:8080/Ester/s9mdb4ez9y/15638
-
-#EXTINF:-1,Music 1 HD IR
-http://ipflix.click:8080/Ester/s9mdb4ez9y/686800
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Box_hits.svg/1280px-Box_hits.svg.png" group-title="REINO UNIDO",REINO UNIDO: Box Hits
-http://tvpremiumhd.club/lista-gratuita/183402/on/live.php?id=csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
-
-#EXTINF:-1,Persiana Turk Music HD IR
-http://ipflix.click:8080/Ester/s9mdb4ez9y/672809
-
-#EXTINF:-1,Now 70s VIP UK
-http://ipflix.click:8080/Ester/s9mdb4ez9y/685773
-
-#EXTINF:-1,Now 80s VIP UK
-http://ipflix.click:8080/Ester/s9mdb4ez9y/685774
-
-#EXTINF:-1,MTV Classic VIP UK
-http://ipflix.click:8080/Ester/s9mdb4ez9y/683898
-
-#EXTINF:-1,MTV 90s UK
-http://ipflix.click:8080/Ester/s9mdb4ez9y/15845
-
-#EXTINF:-1,MTV 80s UK
-http://ipflix.click:8080/Ester/s9mdb4ez9y/9509
-
-#EXTINF:-1,TV Oranje NL
-http://ipflix.click:8080/Ester/s9mdb4ez9y/11391
-
-#EXTINF:-1,Afro Music PT   
-http://ipflix.click:8080/Ester/s9mdb4ez9y/12501
-
-#EXTINF:-1,Trace Africa AF
-http://ipflix.click:8080/Ester/s9mdb4ez9y/12164
-
-#EXTINF:-1,Trace Gospel AF
-http://ipflix.click:8080/Ester/s9mdb4ez9y/12161
-
-#EXTINF:-1,Trace Mizki AF
-http://ipflix.click:8080/Ester/s9mdb4ez9y/12163
-
-#EXTINF:-1,Trace Urban PT
-http://ipflix.click:8080/Ester/s9mdb4ez9y/12505
-
-#EXTINF:-1,Trace Urban AF
-http://ipflix.click:8080/Ester/s9mdb4ez9y/12152
-
-#EXTINF:-1,Trace Naija AF
-http://ipflix.click:8080/Ester/s9mdb4ez9y/12162
-
-#EXTINF:-1,Trace Toca AF
-http://ipflix.click:8080/Ester/s9mdb4ez9y/12159
-
-#EXTINF:-1,Gem Latino IR
-http://ipflix.click:8080/Ester/s9mdb4ez9y/665206
-
 #EXTINF:-1,RTL 102.5 TV FHD IT
 http://ipflix.click:8080/Ester/s9mdb4ez9y/686303
-
-#EXTINF:-1,Sky Classica HD IT
-http://ipflix.click:8080/Ester/s9mdb4ez9y/686150
 
 #EXTINF:-1,MAD TV VIP GR
 http://ipflix.click:8080/Ester/s9mdb4ez9y/685804
@@ -107,50 +32,11 @@ http://ipflix.click:8080/Ester/s9mdb4ez9y/685800
 #EXTINF:-1,Mezzo VIP GR
 http://ipflix.click:8080/Ester/s9mdb4ez9y/685797
 
-#EXTINF:-1,OSN Music Now FHD AR
-http://ipflix.click:8080/Ester/s9mdb4ez9y/685292
 
-#EXTINF:-1,Pink Folk 1 RS
-http://ipflix.click:8080/Ester/s9mdb4ez9y/5013
 
-#EXTINF:-1,Pink Folk 2 RS
-http://ipflix.click:8080/Ester/s9mdb4ez9y/5012
 
-#EXTINF:-1,RTS Muzika RS
-http://ipflix.click:8080/Ester/s9mdb4ez9y/627837
 
-#EXTINF:-1,RTS Kolo RS
-http://ipflix.click:8080/Ester/s9mdb4ez9y/657464
 
-#EXTINF:-1,IDJ TV FHD RS
-http://ipflix.click:8080/Ester/s9mdb4ez9y/11035
-
-#EXTINF:-1,KCN 3 RS
-http://ipflix.click:8080/Ester/s9mdb4ez9y/9363
-
-#EXTINF:-1,KCN 2 RS
-http://ipflix.click:8080/Ester/s9mdb4ez9y/9364
-
-#EXTINF:-1,DM Sat RS
-http://ipflix.click:8080/Ester/s9mdb4ez9y/9367
-
-#EXTINF:-1,Grand TV RS
-http://ipflix.click:8080/Ester/s9mdb4ez9y/5045
-
-#EXTINF:-1,Grand 2 TV HD RS
-http://ipflix.click:8080/Ester/s9mdb4ez9y/9390
-
-#EXTINF:-1,TOP TV HD RS
-http://ipflix.click:8080/Ester/s9mdb4ez9y/11028
-
-#EXTINF:-1,Yu Planet TV RS
-http://ipflix.click:8080/Ester/s9mdb4ez9y/639818
-
-#EXTINF:-1,Kafanska TV HD RS
-http://ipflix.click:8080/Ester/s9mdb4ez9y/674093
-
-#EXTINF:-1,CityPLAY RS
-http://ipflix.click:8080/Ester/s9mdb4ez9y/674095
 
 #EXTINF:-1,BP TV HD BiH
 http://ipflix.click:8080/Ester/s9mdb4ez9y/657469
@@ -695,4 +581,5 @@ https://5b464b69d264e.streamlock.net/Channels_live/ngrp:MelodyChannel_all/chunkl
 #EXTINF:-91 tvg-logo="https://i.postimg.cc/XvgNFpnv/ucv.png" group-title="CHILE", UCV
 https://unlimited1-cl.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
 
-
+#EXTINF:-1,Sky Classica HD IT
+http://ipflix.click:8080/Ester/s9mdb4ez9y/686150
