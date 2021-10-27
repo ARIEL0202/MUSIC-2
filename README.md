@@ -180,3 +180,6 @@ https://cp.sradiotv.com:1936/8064/8064/playlist.m3u8
 
 #EXTINF:-1 tvg-id="140336" tvg-name="Conecta TV" tvg-logo="https://lh3.googleusercontent.com/-1OS8OxMcn0I/XzmCbfsP71I/AAAAAAAA4hQ/FAENkONIqpU9vS0mReGgunUTSJ-he5hPQCK8BGAsYHg/s0/2020-08-16.png" group-title="Musica", Conecta TV
 http://204.12.211.210:1935/conectatv/conectatv/playlist.m3u8?PlaylistM3UCL
+
+#EXTINF:-1 tvg-id="" tvg-name="Sesion Regaeton Dembow - Dj Erick Prado Chile" tvg-logo="http://51.222.43.170:36995/images/824335f343aad6b552d5f8cc8f96f934.jpeg" group-title="MUSICA VIDEO MIX",Sesion Regaeton Dembow - Dj Erick Prado Chile
+http://51.222.43.170:36995/movie/VWjRdtmNC33j/nmcaSkXXW4bH/263859.mp4
