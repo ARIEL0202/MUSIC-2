@@ -183,3 +183,38 @@ http://204.12.211.210:1935/conectatv/conectatv/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="" tvg-name="Sesion Regaeton Dembow - Dj Erick Prado Chile" tvg-logo="http://51.222.43.170:36995/images/824335f343aad6b552d5f8cc8f96f934.jpeg" group-title="MUSICA VIDEO MIX",Sesion Regaeton Dembow - Dj Erick Prado Chile
 http://51.222.43.170:36995/movie/VWjRdtmNC33j/nmcaSkXXW4bH/263859.mp4
+
+#EXTINF:-1 tvg-id="StingrayClassicRock.ca" tvg-country="CA" tvg-logo="https://od.lk/s/MF8yMzE5OTIyMjBf/Redbox_512x512.png" group-title="Canada",Stingray Classic Rock (1080p)
+https://xumo-redbox.ott-channels.stingray.com/101/master.m3u8
+#EXTINF:-1 tvg-id="StingrayClassica.ca" tvg-country="CA" tvg-logo="https://od.lk/s/MF8yMzA5ODU0MDBf/Stingray-Classica_450x450.png" group-title="Canada",Stingray Classica (1080p)
+https://stirr.ott-channels.stingray.com/iota-classica/index.m3u8
+#EXTINF:-1 tvg-id="StingrayDjazz.ca" tvg-country="CA" tvg-logo="https://i.imgur.com/30HzeQe.png" group-title="Canada",Stingray Djazz (1080p)
+https://dai.google.com/linear/hls/event/C-lfmhUVTGeDNWwU13_EgA/master.m3u8
+#EXTINF:-1 tvg-id="Stingraydjazz.ca" tvg-country="CA" tvg-logo="https://od.lk/s/MF8yMzA5ODU0MDFf/Stingray-DJazz_400x400.png" group-title="Canada",Stingray djazz (1080p)
+https://stirr.ott-channels.stingray.com/djazz/master.m3u8
+#EXTINF:-1 tvg-id="StingrayEverything80s.ca" tvg-country="CA" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/90d2dbf6-a533-4cc1-b1a3-6196c40efb16-small3x1_STIRR_LOGO_0220_StingrayEverything80s_1920x1080_EPG.png?cb=eccbc87e4b5ce2fe28308fd9f2a7baf3" group-title="Canada",Stingray Everything 80s (1080p)
+https://stirr.ott-channels.stingray.com/128/master.m3u8
+#EXTINF:-1 tvg-id="StingrayFlashback70s.ca" tvg-country="CA" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/4b83571f-2374-4e84-a27b-e772b0c94c51-small3x1_stirr_1219_epg_stingrayflashback70s_1920x1080.png?cb=eccbc87e4b5ce2fe28308fd9f2a7baf3" group-title="Canada",Stingray Flashback 70s (1080p)
+https://stirr.ott-channels.stingray.com/115/master.m3u8
+#EXTINF:-1 tvg-id="StingrayGreatestHits.ca" tvg-country="CA" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" group-title="Canada",Stingray Greatest Hits (1080p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingraygreatesthits/CDN/master.m3u8
+#EXTINF:-1 tvg-id="StingrayHitlist.ca" tvg-country="CA" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" group-title="Canada",Stingray Hitlist (1080p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingrayhitlist/CDN/master.m3u8
+#EXTINF:-1 tvg-id="StingrayHolidayHits.ca" tvg-country="CA" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/518a9541-fade-45ec-9d64-5b0a65806270-small3x1_stirr_1219_epg_stingraygreatesthits_1920x1080.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="Canada",Stingray Holiday Hits (1080p)
+https://stirr.ott-channels.stingray.com/155/master.m3u8
+#EXTINF:-1 tvg-id="StingrayHotCountry.ca" tvg-country="CA" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/d2dac750-5e2b-4107-a037-6467fca68e93-small3x1_stirr_1219_epg_stingrayhotcountry_1920x1080.png?cb=eccbc87e4b5ce2fe28308fd9f2a7baf3" group-title="Canada",Stingray Hot Country (1080p)
+https://stirr.ott-channels.stingray.com/108/master.m3u8
+#EXTINF:-1 tvg-id="StingrayKaraoke.ca" tvg-country="CA" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" group-title="Canada",Stingray Karaoke (1080p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingraykaraoke/CDN/master.m3u8
+#EXTINF:-1 tvg-id="StingrayKaraoke.ca" tvg-country="CA" tvg-logo="https://i.imgur.com/XkBOu3Q.jpg" group-title="Canada",Stingray Karaoke (1080p)
+https://stingray-karaoke-2-de.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="StingrayKaraokeAustralia.ca" tvg-country="CA" tvg-logo="https://i.imgur.com/XkBOu3Q.jpg" group-title="Canada",Stingray Karaoke (Australia) (1080p)
+https://samsung-au.ott-channels.stingray.com/karaoke/master.m3u8
+#EXTINF:-1 tvg-id="StingrayKaraokeSweden.ca" tvg-country="CA" tvg-logo="https://i.imgur.com/XkBOu3Q.jpg" group-title="Canada",Stingray Karaoke (Sweden) (1080p)
+https://stingray-karaoke-3-se.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="StingrayKarokeNetherland.ca" tvg-country="CA" tvg-logo="https://i.imgur.com/XkBOu3Q.jpg" group-title="Canada",Stingray Karoke (Netherland) (1080p)
+https://stingray-karaoke-4-nl.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="StingrayQelloConcerts.ca" tvg-country="CA" tvg-language="English" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" group-title="Canada",Stingray Qello Concerts (1080p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingrayqello/CDN/master.m3u8
+#EXTINF:-1 tvg-id="StingraySoulStorm.ca" tvg-country="CA" tvg-logo="https://od.lk/s/MF8yMzE5OTIyMjBf/Redbox_512x512.png" group-title="Canada",Stingray Soul Storm (1080p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxstingraysoulstorm/CDN/playlist.m3u8
