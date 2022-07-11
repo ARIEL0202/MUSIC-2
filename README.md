@@ -34,9 +34,6 @@ https://ia801305.us.archive.org/30/items/DJPanduroThe90sEurodanceVideomix/DJ%20P
 #EXTINF:-432 tvg-logo="https://i.postimg.cc/SRjZg75r/orbitatv.png" group-title="MÚSICA", ÓRBITA TV
 https://5dcabf026b188.streamlock.net/orbitatv/livestream/chunklist.m3u8
 
-#EXTINF:-423 tvg-logo="https://i.postimg.cc/bNBDtHpT/maximafm.png" group-title="MÚSICA", MÁXIMA FM
-http://server1.oklanet.cl:1935/maximavideo1/maximavideo1/chunklist_w386150877.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/Logo_XITE_2017_zwart.png" group-title="MUSICA", XITE
 https://ms7.mx-cd.net/tv/226-1855782/XITE_NL.smil/.m3u8
 
