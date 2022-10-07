@@ -30,6 +30,9 @@ https://ia801305.us.archive.org/30/items/DJPanduroThe90sEurodanceVideomix/DJ%20P
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+#EXTINF:-1 tvg-id="1266" tvg-name="EnerGeek Radio" tvg-logo="https://i2.paste.pics/cb6d3df7e55e32e5c786962a1fa742cd.png", EnerGeek Radio | CL
+https://live.tubyte.xyz/LiveApp/streams/839593913716085646044793.m3u8?PlaylistM3UCL
+
 #EXTINF:-1 tvg-id="VallenatoInternacional.us" tvg-country="US;HISPAM" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/valleinalradio/picture?width=320&height=320" group-title="Music",Vallenato Internacional (720p) [Not 24/7]
 https://59a564764e2b6.streamlock.net/vallenato/Vallenato2/playlist.m3u8
 
